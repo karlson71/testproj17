@@ -1,0 +1,35 @@
+[33mcommit b56e386c03590d68a67a99435eea508161e79ff7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Konstantin <Konstantin@ru>
+Date:   Sun Feb 9 15:12:51 2025 +0300
+
+    edit 2 text file
+
+[33mcommit 220c4920425448d956e119a7cad502f8e8bf6fd9[m
+Author: Konstantin <Konstantin@ru>
+Date:   Sun Feb 9 14:25:58 2025 +0300
+
+    add .gitignore
+
+[33mcommit f0680d307e4e9bd441999c3595445f6a75378b62[m
+Author: Konstantin <Konstantin@ru>
+Date:   Sun Feb 9 12:57:56 2025 +0300
+
+    add new test file
+
+[33mcommit 49821387f0147ccb82a19a2ff033aadffe22270e[m
+Author: Konstantin <Konstantin@ru>
+Date:   Sun Feb 9 12:57:03 2025 +0300
+
+    add new test_files
+
+[33mcommit be0a416161484b234c8d3180fd77b3ab3530d9a2[m
+Author: Konstantin <Konstantin@ru>
+Date:   Sun Feb 9 12:46:51 2025 +0300
+
+    new pic1
+
+[33mcommit 9004f883f4c87891cd77df099b43c222a0bd746f[m
+Author: Konstantin <Konstantin@ru>
+Date:   Sun Feb 9 12:35:44 2025 +0300
+
+    start
